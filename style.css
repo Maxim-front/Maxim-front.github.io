@@ -104,6 +104,11 @@ body {
     white-space: nowrap;
 }
 
+.contact-info__link {
+    color: #718096;
+    font-weight: 600;
+}
+
 .contact-info__text--red {
     color: #ee0000;
     font-size: 1.1rem;

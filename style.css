@@ -357,7 +357,7 @@ body {
     }
 }
 
-@media screen and (max-width:425px) {
+@media screen and (max-width:576px) {
     .main-content {
         padding: 1rem;
         width: 95%;

@@ -26,7 +26,7 @@ body {
 }
 
 .hard-skill-title {
-    box-shadow: 3px 4px 4px rgb(255 0 0 / 90%);
+    box-shadow: 4px 4px 4px rgb(45 156 219);
     color: #f7f7f7ec;
     margin-bottom: 10px;
     border-radius: 4%;
@@ -109,8 +109,8 @@ body {
     font-weight: 600;
 }
 
-.contact-info__text--red {
-    color: #ee0000;
+.contact-info__text--blue {
+    color: rgb(45 156 219);
     font-size: 1.1rem;
 }
 
@@ -156,7 +156,7 @@ body {
 }
 
 .language-skill-text {
-    color: #ee0000;
+    color: rgb(45 156 219);
     font-size: 1.5rem;
     font-weight: bold;
 }

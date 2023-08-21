@@ -107,7 +107,6 @@ body {
 .contact-info__text--red {
     color: #ee0000;
     font-size: 1.1rem;
-    padding-top: 0.4rem;
 }
 
 .contact-info ul li i {
@@ -355,6 +354,47 @@ body {
 @media screen and (max-width:700px) {
     .profile img {
         width: 60%;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .main-content {
+        padding: 1rem;
+        width: 95%;
+        margin: 0rem auto;
+    }
+    .right-title {
+        text-align: center;
+        white-space: nowrap;
+    }
+    .right-title::after {
+        width: 0;
+    }
+    .sect {
+        padding-bottom: 1rem;
+    }
+    .timeline img {
+        max-height: 100px;
+        width: 50%;
+    }
+    .language-title {
+        padding: 1rem 0 1rem;
+    }
+    .skills-section {
+        row-gap: 1rem;
+    }
+    .left-tl-content {
+        margin-bottom: 10px
+    }
+    .para {
+        font-size: 14px;
+    }
+    .para-about {
+        line-height: 1.2rem;
+        font-size: 14px;
+    }
+    .right-main-content {
+        padding: 1rem;
     }
 }
 

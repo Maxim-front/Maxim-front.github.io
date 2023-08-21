@@ -62,7 +62,6 @@ body {
 .profile img {
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #002333;
 }
 
 .name {
@@ -106,7 +105,6 @@ body {
 
 .contact-info__link {
     color: #718096;
-    font-weight: 600;
 }
 
 .contact-info__text--blue {
